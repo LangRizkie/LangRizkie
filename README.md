@@ -1,6 +1,6 @@
 <img
   style="margin-left: auto; margin-right: auto; width: 100%"
-  src="/image/welcome.png"
+  src="/image/welcome.gif"
   alt="Welcome" />
 #
 
